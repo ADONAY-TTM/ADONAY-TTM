@@ -7,16 +7,16 @@
 <body>
 
 <h1 align="center">Hi 👋, I'm Adonay Teshome</h1>
-<h3 align="center">A passionate Full Stack Web Developer </h3>
+<h3 align="center">A passionate Full Stack Web Developer | Network Engineer | Cyber-Security Engineer</h3>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adonayteshome&show_icons=true&locale=en" alt="adonayteshome" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADONAY-TTM&show_icons=true&locale=en" alt="ADONAY-TTM" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adonayteshome&show_icons=true&locale=en&layout=compact" alt="adonayteshome" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ADONAY-TTM&show_icons=true&locale=en&layout=compact" alt="ADONAY-TTM" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
