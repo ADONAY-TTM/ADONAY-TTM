@@ -1,7 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Adonay Teshome</h1>
-<h3 align="center">A passionate Software Developer | Network Engineer | Cyber-Security Engineer</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adonayteshome&show_icons=true&locale=en&layout=compact" alt="adonayteshome" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adonayteshome&" alt="adonayteshome" /></p>
+<h3 align="center">A passionate Full Stack Web Developer </h3>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adonayteshome&show_icons=true&locale=en" alt="adonayteshome" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adonayteshome&show_icons=true&locale=en&layout=compact" alt="adonayteshome" />
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
@@ -55,11 +72,12 @@
   <!-- Add more bug bounty tools here -->
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adonayteshome&show_icons=true&locale=en" alt="adonayteshome" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adonay-teshome-54177927b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adonay-teshome-54177927b" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/adonay-teshome-54177927b" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adonay-teshome-54177927b" height="30" width="40" />
+  </a>
 </p>
 
-
-
+</body>
+</html>
