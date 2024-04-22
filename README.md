@@ -10,66 +10,35 @@
 <h3 align="center">A passionate Full Stack Web Developer | Network Engineer | Cyber-Security Engineer</h3>
 
 <!-- GitHub Stats -->
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=ADONAY-TTM&show_icons=true&locale=en" alt="ADONAY-TTM" />
 </p>
 
 <!-- Top Languages -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ADONAY-TTM&show_icons=true&locale=en&layout=compact" alt="ADONAY-TTM" />
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<h3>Languages and Tools:</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-  
-  <!-- Web Development and Design -->
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
+</a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  
-  <!-- Networking -->
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/cisco-systems9760.jpg" alt="cisco" width="40" height="40"/>
-  </a>
-  <a href="https://www.gns3.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/2739187?s=200&v=4" alt="gns3" width="40" height="40"/>
-  </a>
-  
-  <!-- Security and SIEM -->
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DC_0iRU1iGcaXFpJKExIBmPrBycDEwBWVGKnwfI96ddg3Q3sgBmLUIaj2R0IbGKiDYw&usqp=CAU" alt="siem" width="40" height="40"/>
-  </a>
-  <a href="https://ctftime.org/" target="_blank" rel="noreferrer">
-    <img src="https://ctftime.org/static/images/ct/logo.svg" alt="ctf" width="40" height="40"/>
-  </a>
-  
-  <!-- Bug Bounty and Tools -->
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24W1OVuTXltPtGxy2Sn5mTo0z8g6GmCNNVDC19LVulQ&s" alt="burp" width="40" height="40"/>
-  </a>
-  <!-- Add more bug bounty tools here -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
