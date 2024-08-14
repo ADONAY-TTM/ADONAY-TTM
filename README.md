@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1 align="center">Hi 👋, I'm Adonay Teshome</h1>
+<h1 align="center">Hi 👋, I'm Adonay T</h1>
 <h3 align="center">A passionate Full Stack Web Developer | Network Engineer | Cyber-Security Engineer</h3>
 
 <!-- GitHub Stats -->
